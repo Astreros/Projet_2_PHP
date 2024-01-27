@@ -1,6 +1,7 @@
 <?php
+    global $oeuvres;
     include('./header.php');
-    include ('./oeuvres.php');
+    include('./oeuvres.php');
 ?>
 <main>
     <div id="liste-oeuvres">
